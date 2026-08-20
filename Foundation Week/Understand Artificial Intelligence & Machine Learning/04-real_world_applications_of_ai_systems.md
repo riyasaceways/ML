@@ -1,3 +1,5 @@
+[← Back to ML Index](../../README.md)
+
 # Real-world applications of AI systems
 
 ## Real-world applications of AI systems
@@ -15,4 +17,8 @@ Examples include:
 
 
 
-AI can provide fast and consistent decisions based on defined objectives and large amounts of information, without being affected by human emotions. However, AI can still make wrong decisions, and humans are responsible for defining its objectives and constraints.
+AI can provide fast and consistent decisions based on defined 
+objectives and large amounts of information, without being 
+affected by human emotions. However, AI can still make wrong 
+decisions, and humans are responsible for defining its 
+objectives and constraints.
