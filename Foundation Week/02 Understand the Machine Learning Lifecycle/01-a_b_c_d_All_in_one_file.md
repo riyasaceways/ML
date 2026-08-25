@@ -14,6 +14,8 @@ and improving an ML system. It usually follows these main steps:
 - Model deployment
 - Continuous improvement of models
 
+![Lifecycle](ml_lifecycle.png)
+
 ### a. Data Collection
 
 Data collection is the first step in the machine learning lifecycle. It means gathering the information required for a particular ML problem. Data can come from databases, websites, sensors, applications, cameras, user activity, or existing datasets. The quality and relevance of the collected data are important because the model learns patterns from this information. For example, a house-price prediction system may collect data about location, size, number of rooms, and previous selling prices.
@@ -54,7 +56,7 @@ Model Deployment
 Continuous Improvement
       ↺
 ```
-![Lifecycle](ml_lifecycle.png)
+
 
 
 [◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](./)
