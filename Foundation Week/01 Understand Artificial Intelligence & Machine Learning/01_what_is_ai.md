@@ -1,4 +1,4 @@
-[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](/01_what_is_ai.md)
+[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](01_what_is_ai.md)
 
 ---
 # What is Artificial Intelligence?
