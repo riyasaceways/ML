@@ -54,4 +54,7 @@ Model Deployment
 Continuous Improvement
       ↺
 ```
+![Lifecycle](ml_lifecycle.png)
+
+
 [◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](./)

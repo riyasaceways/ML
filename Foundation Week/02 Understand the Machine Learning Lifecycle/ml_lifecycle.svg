@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+
+
+<text x="600" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#24292f">Machine Learning Lifecycle</text>
+<text x="600" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#57606a">A continuous process for building and improving ML systems</text>
+
+<defs>
+  <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+    <path d="M0 0 L12 6 L0 12 Z" fill="#57606a"/>
+  </marker>
+</defs>
+
+<!-- Cards -->
+<g stroke="#d0d7de" stroke-width="2" fill="#ffffff">
+  <rect x="70" y="145" width="300" height="120" rx="14"/>
+  <rect x="450" y="145" width="300" height="120" rx="14"/>
+  <rect x="830" y="145" width="300" height="120" rx="14"/>
+  <rect x="830" y="390" width="300" height="120" rx="14"/>
+  <rect x="450" y="390" width="300" height="120" rx="14"/>
+  <rect x="70" y="390" width="300" height="120" rx="14"/>
+</g>
+
+<g font-family="Arial, sans-serif" fill="#24292f">
+  <text x="220" y="183" text-anchor="middle" font-size="23" font-weight="700">1. Data Collection</text>
+  <text x="220" y="215" text-anchor="middle" font-size="16" fill="#57606a">Gather relevant information</text>
+  <text x="220" y="239" text-anchor="middle" font-size="16" fill="#57606a">from available sources.</text>
+
+  <text x="600" y="183" text-anchor="middle" font-size="23" font-weight="700">2. Data Preparation</text>
+  <text x="600" y="215" text-anchor="middle" font-size="16" fill="#57606a">Clean, organize, and</text>
+  <text x="600" y="239" text-anchor="middle" font-size="16" fill="#57606a">prepare the raw data.</text>
+
+  <text x="980" y="183" text-anchor="middle" font-size="23" font-weight="700">3. Model Training</text>
+  <text x="980" y="215" text-anchor="middle" font-size="16" fill="#57606a">Learn useful patterns</text>
+  <text x="980" y="239" text-anchor="middle" font-size="16" fill="#57606a">from prepared data.</text>
+
+  <text x="980" y="428" text-anchor="middle" font-size="23" font-weight="700">4. Model Evaluation</text>
+  <text x="980" y="460" text-anchor="middle" font-size="16" fill="#57606a">Measure performance on</text>
+  <text x="980" y="484" text-anchor="middle" font-size="16" fill="#57606a">unseen data.</text>
+
+  <text x="600" y="428" text-anchor="middle" font-size="23" font-weight="700">5. Model Deployment</text>
+  <text x="600" y="460" text-anchor="middle" font-size="16" fill="#57606a">Put the model into</text>
+  <text x="600" y="484" text-anchor="middle" font-size="16" fill="#57606a">real-world use.</text>
+
+  <text x="220" y="428" text-anchor="middle" font-size="23" font-weight="700">6. Continuous Improvement</text>
+  <text x="220" y="460" text-anchor="middle" font-size="16" fill="#57606a">Monitor, update, retrain,</text>
+  <text x="220" y="484" text-anchor="middle" font-size="16" fill="#57606a">and improve the model.</text>
+</g>
+
+<!-- Flow arrows -->
+<g stroke="#57606a" stroke-width="3" fill="none" marker-end="url(#arrow)">
+  <line x1="370" y1="205" x2="450" y2="205"/>
+  <line x1="750" y1="205" x2="830" y2="205"/>
+  <line x1="980" y1="265" x2="980" y2="390"/>
+  <line x1="830" y1="450" x2="750" y2="450"/>
+  <line x1="450" y1="450" x2="370" y2="450"/>
+</g>
+
+<!-- Improvement loop -->
+<path d="M220 390 L220 315 Q220 285 255 285 L600 285 Q635 285 635 315 L635 390"
+      fill="none" stroke="#57606a" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="430" y="318" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#57606a">New data and feedback can restart the cycle</text>
+
+<text x="600" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#24292f">Simple flow</text>
+<text x="600" y="643" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#57606a">Collect → Prepare → Train → Evaluate → Deploy → Improve</text>
+</svg>
