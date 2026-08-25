@@ -1,4 +1,4 @@
-[← Back to ML Index](../../README.md)
+[← Back to Index](../../README.md)&nbsp; | &nbsp;[← Back](../)
 
 ---
 
@@ -17,4 +17,4 @@ AI vs ML vs Deep Learning — simple definition
 - Deep Learning = one type of ML
 ---
 
-[← Back to Index](../../../README.md) | [← Back](../)
+[◀ Back to Index](../../README.md)&nbsp; | &nbsp;[◀ Back](../)

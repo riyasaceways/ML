@@ -1,4 +1,4 @@
-[← Back to Index](../../../README.md) | [← Back](../)
+[← Back to Index](../../README.md)|[← Back](../)
 
 ---
 
@@ -16,4 +16,4 @@ ML = one way to build AI systems
 
 ---
 
-[← Back to Index](../../../README.md) | [← Back](../) 
+[← Back to Index](../../README.md)|[← Back](../)
