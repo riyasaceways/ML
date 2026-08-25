@@ -1,4 +1,6 @@
-[← Back to ML Index](../../README.md)
+[← Back to Index](../../../README.md) | [← Back](../)
+
+---
 
 # Real-world applications of AI systems
 
@@ -22,3 +24,7 @@ objectives and large amounts of information, without being
 affected by human emotions. However, AI can still make wrong 
 decisions, and humans are responsible for defining its 
 objectives and constraints.
+
+---
+
+[← Back to Index](../../../README.md) | [← Back](../)

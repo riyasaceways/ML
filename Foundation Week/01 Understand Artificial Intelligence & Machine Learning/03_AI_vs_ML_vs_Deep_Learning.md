@@ -1,5 +1,7 @@
 [← Back to ML Index](../../README.md)
 
+---
+
 # AI vs ML vs Deep Learning
 AI vs ML vs Deep Learning — simple definition
 - AI: The broad field of building computers that can perform tasks requiring human-like intelligence.
@@ -13,3 +15,6 @@ AI vs ML vs Deep Learning — simple definition
 - AI = the broad goal/field
 - ML = one way to build AI systems
 - Deep Learning = one type of ML
+---
+
+[← Back to Index](../../../README.md) | [← Back](../)

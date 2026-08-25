@@ -1,4 +1,4 @@
-[← Back to ML Index](../../README.md)
+[← Back to Index](../../../README.md) | [← Back](../)
 
 # Industry use cases of Machine Learning
 
@@ -7,3 +7,7 @@
 - Hospitals / Healthcare → disease prediction, medical-image analysis, patient-risk prediction.
 - Large-scale production / Manufacturing → predictive maintenance, defect detection, production optimization.
 - Vehicles / Transportation → driver-assistance systems, object detection, route/traffic prediction.
+
+---
+
+[← Back to Index](../../../README.md) | [← Back](../)
