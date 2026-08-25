@@ -1,4 +1,4 @@
-[← Back to Index](../../README.md) | [← Back](../)
+[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](../)
 
 ---
 # a. Data Collection
@@ -73,4 +73,4 @@ performance decreases.
 > House prices can change because of changes in the economy or the housing market. New house-price data
 > can be collected and used to retrain the model.
 ---
-[← Back to Index](../../../README.md) | [← Back](../)
+[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](../)

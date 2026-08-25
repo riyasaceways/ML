@@ -1,4 +1,4 @@
-[← Back to Index](../../../README.md) | [← Back](../)
+[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](../)
 
 ---
 
@@ -27,4 +27,4 @@ objectives and constraints.
 
 ---
 
-[← Back to Index](../../../README.md) | [← Back](../)
+[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](../)
