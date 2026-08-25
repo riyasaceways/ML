@@ -1,7 +1,9 @@
 [◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](./)
 
 ---
-## Understand the Machine Learning Lifecycle
+
+# Understand the Machine Learning Lifecycle
+
 The Machine Learning lifecycle is the process of building, testing, deploying, 
 and improving an ML system. It usually follows these main steps:
 
@@ -52,7 +54,4 @@ Model Deployment
 Continuous Improvement
       ↺
 ```
-
-
----
 [◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](./)
