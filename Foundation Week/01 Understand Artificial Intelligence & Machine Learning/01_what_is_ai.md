@@ -1,4 +1,4 @@
-[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](../)
+[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](./)
 
 ---
 # What is Artificial Intelligence?
@@ -42,4 +42,4 @@ AI = the broad goal/field
 
 ---
 
-[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](../)
+[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](./)

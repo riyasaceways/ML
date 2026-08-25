@@ -1,3 +1,7 @@
+[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](./)
+
+---
+
 # 1. Understand Artificial Intelligence & Machine Learning
 
 ## 1.1 What is Artificial Intelligence?
@@ -555,3 +559,7 @@ Two events are dependent when one event affects the probability of the other.
 Example:
 
 Drawing two cards from a deck **without replacing the first card**. The first draw changes the probability of the second draw.
+
+---
+
+[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](./)

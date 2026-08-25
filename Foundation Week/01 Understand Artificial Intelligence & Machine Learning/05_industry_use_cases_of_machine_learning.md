@@ -1,4 +1,4 @@
-[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](../)
+[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](./)
 
 # Industry use cases of Machine Learning
 
@@ -10,4 +10,4 @@
 
 ---
 
-[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](../)
+[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](./)
