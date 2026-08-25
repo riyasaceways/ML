@@ -1,5 +1,6 @@
 [◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](./)
 
+---
 # Understand the Role of Data in ML
 
 ### a. Structured vs Unstructured Data
@@ -29,5 +30,7 @@ Data quality is important because a machine learning model can only learn from t
 ### e. Data-Driven Decision-Making
 
 **Data-driven decision-making** means using collected and analyzed data to support decisions instead of relying only on assumptions, opinions, or guesses. Machine learning can analyze large amounts of data, identify patterns, make predictions, and provide useful information for decision-making. For example, a business could analyze customer behavior to predict which products are likely to be purchased. The final decision can then be supported by evidence from data rather than relying only on personal judgment.
+
+---
 
 [◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](./)
