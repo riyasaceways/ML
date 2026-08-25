@@ -1,183 +1,93 @@
 # Python Basics
 
-This task covers the four fundamental areas needed before moving into more advanced Python and ML programming:
+## 1. Variables & Data Types
 
-1. **Variables & Data Types**
-2. **Operators**
-3. **Control Statements**
-4. **Input & Output**
-
-For your GitHub documentation, I recommend creating one Markdown file for this task and explaining each section with small Python examples.
-
----
-
-## a. Variables & Data Types
-
-A **variable** is a name used to store a value in a Python program. Python does not require you to explicitly declare the variable's type; the type is determined automatically from the value assigned to it.
-
-Common Python data types include:
-
-* `int` — whole numbers
-* `float` — decimal numbers
-* `str` — text
-* `bool` — `True` or `False`
-* `list` — ordered collection of values
-* `tuple` — ordered, immutable collection
-* `dict` — key-value pairs
-* `set` — collection of unique values
-
-### Example
+A **variable** is a name that stores a value.
 
 ```python
 name = "Riyas"
 age = 20
 height = 5.8
 is_student = True
-
-print(name)
-print(age)
-print(height)
-print(is_student)
 ```
 
-You can check the type of a value using `type()`:
+Common data types:
+
+```text
+int    → whole numbers      → 20
+float  → decimal numbers    → 5.8
+str    → text               → "Riyas"
+bool   → True / False       → True
+list   → collection         → [1, 2, 3]
+tuple  → fixed collection   → (1, 2, 3)
+dict   → key-value pairs    → {"name": "Riyas"}
+set    → unique values      → {1, 2, 3}
+```
+
+Check the type:
 
 ```python
-print(type(name))
 print(type(age))
-print(type(height))
-print(type(is_student))
+print(type(name))
 ```
-
-### Basic collection types
-
-```python
-languages = ["Python", "Java", "C++"]
-
-coordinates = (10, 20)
-
-student = {
-    "name": "Riyas",
-    "age": 20
-}
-
-unique_numbers = {1, 2, 3, 3}
-
-print(languages)
-print(coordinates)
-print(student)
-print(unique_numbers)
-```
-
-**Key idea:** Variables allow programs to store and work with information, while data types determine what kind of information is being stored.
 
 ---
 
-## b. Operators
+## 2. Operators
 
-**Operators** are symbols or keywords used to perform operations on values and variables.
+Operators are used to perform operations on values.
 
-### Arithmetic operators
+### Arithmetic
 
 ```python
 a = 10
 b = 3
 
-print(a + b)
-print(a - b)
-print(a * b)
-print(a / b)
-print(a // b)
-print(a % b)
-print(a ** b)
+a + b   # addition
+a - b   # subtraction
+a * b   # multiplication
+a / b   # division
+a // b  # floor division
+a % b   # remainder
+a ** b  # power
 ```
 
-Common arithmetic operators:
+### Comparison
 
-| Operator | Meaning        |
-| -------- | -------------- |
-| `+`      | Addition       |
-| `-`      | Subtraction    |
-| `*`      | Multiplication |
-| `/`      | Division       |
-| `//`     | Floor division |
-| `%`      | Modulus        |
-| `**`     | Exponentiation |
-
-### Comparison operators
-
-Comparison operators produce `True` or `False`.
+Comparison gives `True` or `False`.
 
 ```python
-a = 10
-b = 5
-
-print(a == b)
-print(a != b)
-print(a > b)
-print(a < b)
-print(a >= b)
-print(a <= b)
+a == b
+a != b
+a > b
+a < b
+a >= b
+a <= b
 ```
 
-### Logical operators
+### Logical
 
 ```python
-age = 20
-has_id = True
-
-print(age >= 18 and has_id)
-print(age >= 18 or has_id)
-print(not has_id)
+age >= 18 and has_id
+age >= 18 or has_id
+not has_id
 ```
 
-The main logical operators are:
+Main logical operators:
 
-* `and`
-* `or`
-* `not`
-
-### Assignment operators
-
-```python
-x = 10
-
-x += 5
-print(x)
-
-x -= 2
-print(x)
-
-x *= 2
-print(x)
+```text
+and
+or
+not
 ```
-
-**Key idea:** Operators allow a program to calculate values, compare information, make logical decisions, and modify variables.
 
 ---
 
-## c. Control Statements
+## 3. Control Statements
 
-**Control statements** determine the order in which Python executes instructions. They allow a program to make decisions and repeat operations.
+Control statements control how the program executes.
 
-The main types covered here are:
-
-* `if`
-* `elif`
-* `else`
-* `for`
-* `while`
-
-### `if` statement
-
-```python
-age = 20
-
-if age >= 18:
-    print("Adult")
-```
-
-### `if`, `elif`, and `else`
+### if / elif / else
 
 ```python
 marks = 75
@@ -190,28 +100,18 @@ else:
     print("C")
 ```
 
-### `for` loop
+### for loop
 
-A `for` loop can repeat an operation over a sequence.
+Used when I want to repeat something for a sequence/range.
 
 ```python
 for number in range(5):
     print(number)
 ```
 
-Output:
+### while loop
 
-```text
-0
-1
-2
-3
-4
-```
-
-### `while` loop
-
-A `while` loop continues while its condition remains `True`.
+Repeats while a condition is `True`.
 
 ```python
 count = 1
@@ -221,9 +121,9 @@ while count <= 5:
     count += 1
 ```
 
-### `break`
+### break
 
-`break` stops a loop.
+Stops the loop.
 
 ```python
 for number in range(10):
@@ -233,9 +133,9 @@ for number in range(10):
     print(number)
 ```
 
-### `continue`
+### continue
 
-`continue` skips the current iteration and continues with the next one.
+Skips the current iteration.
 
 ```python
 for number in range(5):
@@ -245,63 +145,45 @@ for number in range(5):
     print(number)
 ```
 
-**Key idea:** Control statements give programs the ability to make decisions and repeat operations instead of simply executing every line once from top to bottom.
-
 ---
 
-## d. Input & Output
+## 4. Input & Output
 
-**Input** allows a program to receive information from the user. **Output** allows the program to display information.
+### Output
 
-### Output with `print()`
+`print()` displays information.
 
 ```python
-print("Hello, Python!")
+print("Hello")
 print(10)
-print("Age:", 20)
 ```
 
-### Getting user input
+### Input
 
-Python uses `input()` to receive text from the user.
+`input()` gets information from the user.
 
 ```python
 name = input("Enter your name: ")
-
-print("Hello", name)
+print(name)
 ```
 
-By default, `input()` returns a string.
+`input()` returns a **string** by default.
 
-If you want a number, convert the input:
+For an integer:
 
 ```python
 age = int(input("Enter your age: "))
-
-print("Your age is:", age)
 ```
 
-For decimal numbers:
+For a decimal:
 
 ```python
 height = float(input("Enter your height: "))
-
-print("Height:", height)
 ```
 
-### Simple input/output program
+### f-string
 
-```python
-name = input("Enter your name: ")
-age = int(input("Enter your age: "))
-
-print("Name:", name)
-print("Age:", age)
-```
-
-### Using an f-string
-
-An f-string makes it easier to combine variables with text:
+Useful for putting variables inside text.
 
 ```python
 name = "Riyas"
@@ -310,13 +192,9 @@ age = 20
 print(f"My name is {name} and I am {age} years old.")
 ```
 
-**Key idea:** Input allows programs to interact with users, while output communicates information or results back to them.
-
 ---
 
-# Simple Practice Program
-
-After studying all four topics, combine them into one small program:
+## Small Practice
 
 ```python
 name = input("Enter your name: ")
@@ -331,13 +209,13 @@ print(f"Hello {name}!")
 print(f"You are an {status}.")
 ```
 
-This single program uses:
+### What this program uses
 
-* **Variables** → `name`, `age`, `status`
-* **Data types** → `str`, `int`
-* **Input** → `input()`
-* **Output** → `print()`
-* **Operators** → `>=`
-* **Control statements** → `if` / `else`
-
-That gives you a practical base before moving to the next Python task: **basic logical problems**.
+```text
+Variables       → name, age, status
+Data types      → str, int
+Input           → input()
+Output          → print()
+Operator        → >=
+Control         → if / else
+```
