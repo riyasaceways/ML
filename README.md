@@ -35,7 +35,7 @@ My one-year Machine Learning learning journey.
 
 ---
 
-## [04. Understand Modern AI Systems (Basic Intro)](Foundation%20Week/04%20Understand%20Modern%20AI%20Systems)
+## [04. Understand Modern AI Systems (Basic Intro)](Foundation%20Week/04%20Understand%20Modern%20AI%20Systems%20%28Basic%20Intro%29)
 
 1. Traditional ML systems
 2. Deep Learning systems
