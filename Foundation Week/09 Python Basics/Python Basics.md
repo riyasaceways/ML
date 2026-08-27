@@ -1,3 +1,7 @@
+[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](./)
+
+---
+
 # Python Basics
 
 ## 1. Variables & Data Types
@@ -219,3 +223,6 @@ Output          → print()
 Operator        → >=
 Control         → if / else
 ```
+---
+
+[◀ Back to Index](../../README.md) &emsp; | &emsp;[◀ Back](./)
