@@ -1,4 +1,0 @@
-[◀ Back](./)
----
-
-# Understand Python Fundamentals
