@@ -9,8 +9,7 @@ My one-year Machine Learning learning journey.
 
 
 ## $$\textcolor{#008515}{\texttt{PAPER-1}}$$
-### MODULE-1
-### MODULE-2
+
 ## PAPER-2
 ## PAPER-3
 ## PAPER-4
