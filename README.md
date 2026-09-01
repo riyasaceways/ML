@@ -4,7 +4,9 @@ My one-year Machine Learning learning journey.
 
 ---
 
-# SEMESTER - 1
+
+# $$\textcolor{#58A6FF}{\text{SEMESTER - 1}}$$
+
 ## PAPER-1
 ### MODULE-1
 ### MODULE-2
