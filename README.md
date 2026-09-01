@@ -5,7 +5,7 @@ My one-year Machine Learning learning journey.
 ---
 
 
-# $$\textcolor{#008515}{\texttt{SEMESTER - 1}$$
+# $$\textcolor{#008515}\texttt{SEMESTER - 1}$$
 
 
 ## $$\textcolor{}{PAPER-1}$$
@@ -16,4 +16,4 @@ My one-year Machine Learning learning journey.
 ## PAPER-4
 
 ---
-# $$\textcolor{#008515}{\texttt{SEMESTER - 2}$$
+# $$\textcolor{#008515}{\texttt{SEMESTER - 2}}$$
