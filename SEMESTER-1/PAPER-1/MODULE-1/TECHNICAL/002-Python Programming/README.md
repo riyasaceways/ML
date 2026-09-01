@@ -56,7 +56,7 @@
     d. Data processing exercises
     e. Algorithmic thinking
 
-### 9. Thinking with AI
+## 9. Thinking with AI
     a. Use AI for:
     i. Code explanation
     ii. Debugging
