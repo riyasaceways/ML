@@ -28,3 +28,5 @@ Python is a high-level, general-purpose, interpreted programming language known 
    - Python was designed with readability in mind. 
 </p>
 </details>
+
+## Variables and data types
