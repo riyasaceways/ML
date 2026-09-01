@@ -6,7 +6,7 @@
     c. Type conversion
     d. Expressions and operators
     e. Python coding conventions
-[Open Answers](#-nderstand-python-fundamentals)
+[Open Answers](001-Understand%20Python%20Fundamentals/#-nderstand-python-fundamentals)
 
 ## 2. Understand Control Flow
     a. Conditional statements
