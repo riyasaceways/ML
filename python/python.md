@@ -2,9 +2,9 @@
 Python is a high-level, general-purpose, interpreted programming language known for its simple and readable syntax.
 
 <details>
-    <summary>Click to expand</summary>
-    <p>
-      
+<summary>Click to expand</summary>
+<p>
+
         1. **Python is a programming language**
            - It is a language we use to give instructions to a computer.
         2. **High-level language**
@@ -26,5 +26,6 @@ Python is a high-level, general-purpose, interpreted programming language known 
            - "High-level" means Python is closer to human language and farther from machine-level instructions.
         5. **Easy-to-read syntax**<ber>
            - Python was designed with readability in mind.
-    </p>
+    
+</p>
 </details>
