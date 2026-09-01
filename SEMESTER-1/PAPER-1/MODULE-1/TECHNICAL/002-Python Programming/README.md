@@ -73,3 +73,5 @@
     d. Solve Python logical problems
     e. Build mini data-processing applications
     f. Refactor existing solutions
+
+$$\color{#FF0000}{The End.}$$
