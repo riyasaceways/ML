@@ -89,4 +89,27 @@ print("World")
 | `\n`      | New line               |
 | `\t`      | Tab                    |
 
-[View more details about Input and Output Operations](Python_Detaild/Input_and_output_operations.md)
+**[View more details about Input and Output Operations](Python_Detaild/Input_and_output_operations.md)**
+
+
+---
+
+
+## Type Conversion
+
+**Type conversion** is the process of converting a value from one data type to another.
+
+Python provides built-in functions such as `int()`, `float()`, `str()`, `bool()`, `list()`, `tuple()`, `set()`, and `dict()` for type conversion.
+
+```python
+age = int("20")
+price = float("99.99")
+number = str(100)
+```
+
+Python supports both:
+
+* **Implicit conversion** — Python automatically converts the type when appropriate.
+* **Explicit conversion** — The programmer manually converts the type using conversion functions.
+
+**[View detailed notes →](./Python_Detaild/type-conversion.md)**
