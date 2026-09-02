@@ -149,4 +149,30 @@
         i += 1
     ```
 - nested loop
-          
+    ```python
+    numbers = [10, 15, 20, 25, 30]
+    
+    for number in numbers:
+    
+        if number > 20:
+            if number % 2 == 0:
+                print(number)
+    ```
+- brake
+    ```python
+    for i in range(10):
+    
+        if i == 5:
+            break
+    
+        print(i)
+    ```
+- continue
+    ```python
+    for i in range(5):
+    
+        if i == 2:
+            continue
+    
+        print(i)
+    ```
