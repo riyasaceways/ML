@@ -1,4 +1,8 @@
-## 3. Understand Collections
+[◀ Back](.././)
+
+---
+
+# 3. Understand Collections
 * **What are Lists?**<br>
   A **list** is an ordered, changeable (mutable) collection of items that allows duplicate values and uses brackets `[]`.
 
@@ -58,3 +62,7 @@
   3. **Slicing & Loops:** Slicing syntax `[start:stop]` extracts ranges from lists/tuples, while `for` loops traverse keys or values.
   
   </details>
+
+---
+
+[◀ Back](.././)

@@ -1,5 +1,7 @@
 [◀ Back](.././)
 
+---
+
 # Understand Python Fundamentals
 1. Variables and data types
 2. Input and output operations
@@ -132,3 +134,7 @@
   3. **Comments:** Keep comments updated, short, and place a single space after the `#` symbol.
   
   </details>
+
+---
+
+[◀ Back](.././)

@@ -1,3 +1,7 @@
+[◀ Back](.././)
+
+---
+
 # 5. Understand File Handling
 
 * **What is Reading Files?**<br>
@@ -59,3 +63,7 @@
   3. **Advanced Scaling:** For large-scale data manipulation, developers transition from basic file loops to high-powered libraries like [Pandas](https://pydata.org "Pandas Documentation") for processing DataFrames.
   
   </details>
+
+---
+
+[◀ Back](.././)
