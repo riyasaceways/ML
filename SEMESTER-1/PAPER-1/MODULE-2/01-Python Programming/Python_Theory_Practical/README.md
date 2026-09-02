@@ -89,4 +89,4 @@ print("World")
 | `\n`      | New line               |
 | `\t`      | Tab                    |
 
-[]
+[View more details about Input and Output Operations](Python_Detaild/Input_and_output_operations.md)
