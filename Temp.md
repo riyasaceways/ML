@@ -238,18 +238,19 @@ except:
 ---
 # Practice
 
-* Palindrom number 
+* Palindrome number 
 * Factorial of number 
 * Count vowels and consonants from a string
 * Return the second most elements from the list
-* Retunr the most repeated elements from a list
+* Return the most repeated elements from a list
 * Longest common substring
 * Calculator implementation
 * Bubble sort
 * Star pattern code
-* Retunr the largest and smallest element from list
+* Return the largest and smallest element from list
 * Pls practice the above  coding questions
 * Pls explore these kind of questions for coding exam
-* Regarding the env based question just show the reviewer how do u created the enviroment ,how to activate the environment . Use of env
+* Regarding the env based question just show the reviewer how do u created the environment ,how to activate the environment . Use of env
 * Pls ask him to mail me
 
+$$\textcolor{#FF0000}{\texttt{This repository could be change the location please note it before lost the document}}$$
