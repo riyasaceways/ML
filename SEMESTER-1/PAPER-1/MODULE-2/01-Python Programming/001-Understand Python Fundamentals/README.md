@@ -11,29 +11,18 @@
 ---
 
 ## 1. Variables and data types
-* **What is variable?**<br>
-  A **variable** is a named label used to store and look up data in a computer program.
-
-  <details>
-  <summary>Click for more</summary>
-  
+### **What is variable?**<br>
+A **variable** is a named label used to store and look up data in a computer program.
   1. Must start with a letter or an underscore (_).
   2. Cannot start with a digit. 
   3. Can only contain alphanumeric characters and underscores (A-z, 0-9, and _).
-  
-  </details>
-
-* **What is Data types?**<br>
+### **What is Data types?**<br>
   A **data type** is a classification that tells the computer what kind of value a variable holds and how it can be used.
-
-  <details>
-  <summary>Click for more</summary>
-  
   1. Determines valid operations (e.g., you can add numbers, but you cannot add a number to a word).
   2. Python automatically detects the data type when you assign a value (Dynamic Typing). 
   3. Core types include text (str), numeric (int, float), logical (bool), and collections (list, dict).
-  
-  </details>
+
+---
 
 ## 2. Input and output operations
 * **What is an output operation?**<br>
