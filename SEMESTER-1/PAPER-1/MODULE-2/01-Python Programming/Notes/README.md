@@ -261,9 +261,7 @@ except:
 * Regarding the env based question just show the reviewer how do u created the environment ,how to activate the environment . Use of env
 * Pls ask him to mail me
 * Check whether two strings are anagrams 
-* reverse a string  
-
-Add this 2 also
+* reverse a string
 
 > [!CAUTION]
 $$\textcolor{#FF0000}{\texttt{Hi, I'm Riyas. I created these notes to help students understand and revise the topics more easily.}}$$
