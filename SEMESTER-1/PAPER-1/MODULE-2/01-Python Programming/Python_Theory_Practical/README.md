@@ -1,19 +1,9 @@
-# Python
-
-## Starting with Hello world
-```python
-print("Hello World")
-```
-
-### Variable All forms
-
-# Python Variables — Complete Syntax Guide
-
-> Every common way to declare, assign, and use variables in Python.
-
+[◀Back](./)
 ---
 
-## 1. Basic Variable Assignment
+# Python
+
+# Basic Variable Assignment
 
 ```python
 name = "Riyas"
@@ -131,3 +121,26 @@ Common Python operators include:
 * **Bitwise:** `&`, `|`, `^`, `~`, `<<`, `>>`
 
 [View more details →](./Python_Detaild/expressions-and-operators.md)
+
+---
+
+## Python Coding Conventions
+
+**Python coding conventions** are recommended rules for writing code that is readable, consistent, and easy to maintain. Python commonly follows **PEP 8**, the official style guide for Python code.
+
+Common conventions include:
+
+* Use **4 spaces** for indentation.
+* Use `snake_case` for variables and functions.
+* Use `PascalCase` for classes.
+* Use `UPPER_CASE` for constants.
+* Use meaningful and descriptive names.
+* Add spaces around operators.
+* Keep lines reasonably short and code readable.
+* Use comments and docstrings when they improve understanding.
+
+[View more details →](./Python_Detaild/coding-conventions.md)
+
+---
+
+[◀Back](./)
