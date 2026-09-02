@@ -20,4 +20,4 @@ name = "Riyas"
 age = 20
 price = 99.99
 ```
-[Variable in Many forms](Variables%20in%20many%20forms.md)
+[Variable in Many forms](Pytho%20files/Python%20Detaild)
