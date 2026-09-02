@@ -8,14 +8,17 @@
     c. Type conversion
     d. Expressions and operators
     e. Python coding conventions
-[Open Answers](001-Understand%20Python%20Fundamentals/#-nderstand-python-fundamentals)
+[Click to view Answers 👆](001-Understand%20Python%20Fundamentals/#-nderstand-python-fundamentals)
 
+---
 ## 2. Understand Control Flow
     a. Conditional statements
     b. Nested conditions
     c. Loops
     d. Control statements
     e. Logical problem solving
+
+---
 
 ## 3. Understand Collections
     a. Lists
