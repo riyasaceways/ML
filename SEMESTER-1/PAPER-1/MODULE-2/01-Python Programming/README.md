@@ -8,7 +8,7 @@
     c. Type conversion
     d. Expressions and operators
     e. Python coding conventions
-[Click to view Answers 👆](Python_Theory_Practical/understand_python_fundamentals.md)
+[Click to view Answers 👆](./001_understand_python_fundamentals.md)
 
 ---
 ## 2. Understand Control Flow
@@ -17,7 +17,7 @@
     c. Loops
     d. Control statements
     e. Logical problem solving
-[Click to view Answers 👆](002-Understand%20Control%20Flow/)
+[Click to view Answers 👆](./002_understand_control_flow.md)
 
 ---
 
@@ -27,7 +27,7 @@
     c. Sets
     d. Dictionaries
     e. Collection manipulation
-[Click to view Answers 👆](003-Understand%20Collections/)
+[Click to view Answers 👆](./003_understand_collections.md)
 
 ---
 
@@ -37,7 +37,7 @@
     c. Return values
     d. Scope
     e. Reusable logic
-[Click to view Answers 👆](004-Understand%20Functions/)
+[Click to view Answers 👆](./004_understand_functions.md)
 
 ---
 
@@ -47,7 +47,7 @@
     c. CSV files
     d. JSON files
     e. Processing structured data
-[Click to view Answers 👆](005-Understand%20File%20Handling/)
+[Click to view Answers 👆](./005_understand_file_handling.md)
 
 ---
 
@@ -57,7 +57,7 @@
     c. finally
     d. Custom exceptions
     e. Writing robust programs
-[Click to view Answers 👆](006-Understand%20Exception%20Handling/)
+[Click to view Answers 👆](./006_understand_exception_handling.md)
 
 ---
 
@@ -67,7 +67,7 @@
     c. Package organization
     d. Virtual environments
     e. Dependency management
-[Click to view Answers 👆](007-Understand%20Modules%20%26%20Packages/)
+[Click to view Answers 👆](./007_understand_modules_and_packages.md)
 
 ---
 
@@ -77,7 +77,7 @@
     c. String manipulation
     d. Data processing exercises
     e. Algorithmic thinking
-[Click to view Answers 👆](008-Develop%20Problem%20Solving%20Skills/)
+[Click to view Answers 👆](./008_develop_problem_solving_skills.md)
 
 ---
 
@@ -90,7 +90,7 @@
     b. Validate generated code
     c. Compare multiple implementations
     d. Identify inefficient solutions
-[Click to view Answers 👆](009-Thinking%20with%20AI/)
+[Click to view Answers 👆](./009_thinking_with_ai.md)
 
 ---
 
@@ -101,7 +101,7 @@
     d. Solve Python logical problems
     e. Build mini data-processing applications
     f. Refactor existing solutions
-[Click to view Answers 👆](010-Apply%20Through%20Hands-on%20Tasks/)
+[Click to view Answers 👆](./010_apply_through_hands_on_tasks.md)
 
 ---
 
