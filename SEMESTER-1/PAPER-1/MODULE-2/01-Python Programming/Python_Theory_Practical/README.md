@@ -40,6 +40,7 @@ price = 99.99
 - `bytearray` — Mutable sequence of bytes
 - `memoryview` — View of binary data without copying
 - `NoneType` — Represents the absence of a value (`None`)
+
 [View more detail of data types](Python_Detaild/Datatypes.md)
 
 ---
@@ -87,3 +88,5 @@ print("World")
 | `end`     | Set line ending        |
 | `\n`      | New line               |
 | `\t`      | Tab                    |
+
+[]
