@@ -113,3 +113,21 @@ Python supports both:
 * **Explicit conversion** — The programmer manually converts the type using conversion functions.
 
 **[View detailed notes →](./Python_Detaild/type-conversion.md)**
+
+---
+
+## Expressions and Operators
+
+An **expression** is a combination of values, variables, and operators that produces a result. **Operators** are symbols or keywords used to perform operations on values.
+
+Common Python operators include:
+
+* **Arithmetic:** `+`, `-`, `*`, `/`, `//`, `%`, `**`
+* **Comparison:** `==`, `!=`, `>`, `<`, `>=`, `<=`
+* **Logical:** `and`, `or`, `not`
+* **Assignment:** `=`, `+=`, `-=`, `*=`, `/=`
+* **Identity:** `is`, `is not`
+* **Membership:** `in`, `not in`
+* **Bitwise:** `&`, `|`, `^`, `~`, `<<`, `>>`
+
+[View more details →](./Python_Detaild/expressions-and-operators.md)
