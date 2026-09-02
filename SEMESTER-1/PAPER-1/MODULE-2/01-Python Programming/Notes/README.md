@@ -253,7 +253,7 @@ except:
 * Regarding the env based question just show the reviewer how do u created the environment ,how to activate the environment . Use of env
 * Pls ask him to mail me
 
-$$\textcolor{#FF0000}{\texttt{**Disclaimer:**}}$$
+> $$\textcolor{#FF0000}{\texttt{**Disclaimer:**}}$$
 $$\textcolor{#FF0000}{\texttt{Hi, I'm Riyas. I created these notes to help students understand and revise the topics more easily.}}$$
 $$\textcolor{#FF0000}{\texttt{Please keep in mind that these notes may contain mistakes, inaccuracies, or incomplete information. Use them as a reference and study aid, and always verify important information with your textbooks, instructors, official documentation, or other reliable sources.}}$$
 $$\textcolor{#FF0000}{\texttt{If you find an error or something that needs improvement, feel free to point it out or contribute a correction.}}$$
