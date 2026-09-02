@@ -1,4 +1,4 @@
-[◀Back](./)
+[◀Back](.././)
 ---
 
 # Python Data Types
@@ -246,5 +246,5 @@ memoryview
 NoneType
 ```
 
-[◀Back](./)
+[◀Back](.././)
 ---

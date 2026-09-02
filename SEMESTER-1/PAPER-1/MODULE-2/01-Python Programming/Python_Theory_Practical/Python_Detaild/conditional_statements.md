@@ -1,4 +1,4 @@
-[◀ Back](./)
+[◀ Back](.././)
 ---
 
 
@@ -821,5 +821,5 @@ result = "Pass" if mark >= 50 else "Fail"
 ```
 ---
 
-[◀ Back](./)
+[◀ Back](.././)
 ---

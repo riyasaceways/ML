@@ -1,4 +1,4 @@
-[◀ Back](./)
+[◀Back](.././)
 ---
 
 # Nested Conditions in Python
@@ -550,6 +550,5 @@ Sometimes. For simple dependent conditions, `and` or other logical operators can
 Excessive nesting can make code harder to read, understand, maintain, and debug.
 
 
-
-[◀ Back](./)
+[◀Back](.././)
 ---

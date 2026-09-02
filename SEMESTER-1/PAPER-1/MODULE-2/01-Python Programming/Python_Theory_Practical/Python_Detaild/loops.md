@@ -1,4 +1,4 @@
-[◀ Back](./)
+[◀Back](.././)
 ---
 
 # Loops in Python
@@ -1053,5 +1053,5 @@ for number in range(3):
 
 The indented `print()` statement belongs to the loop.
 
-[◀ Back](./)
+[◀Back](.././)
 ---

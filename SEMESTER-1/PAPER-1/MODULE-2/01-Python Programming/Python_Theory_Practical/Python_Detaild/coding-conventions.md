@@ -1,4 +1,4 @@
-[◀Back](./)
+[◀Back](.././)
 ---
 
 # Python Coding Conventions
@@ -790,5 +790,5 @@ list = [1, 2, 3]
 This can prevent you from using the built-in `list()` function normally.
 
 ---
-[◀Back](./)
+[◀Back](.././)
 ---

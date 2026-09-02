@@ -1,4 +1,4 @@
-[◀Back](./)
+[◀Back](.././)
 ---
 
 # Input and Output Operations in Python
@@ -469,5 +469,5 @@ print(f"Height: {height} meters")
 - `\t` creates a tab space.
 - f-strings are commonly used for formatted output.
 
-[◀Back](./)
+[◀Back](.././)
 ---

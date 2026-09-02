@@ -1,4 +1,4 @@
-[◀Back](./)
+[◀Back](.././)
 ---
 
 
@@ -292,5 +292,5 @@ is_student = True
 > **Interview Tip:** Python is **dynamically typed**, so the variable's type is determined automatically at runtime.
 
 
-[◀Back](./)
+[◀Back](.././)
 ---
