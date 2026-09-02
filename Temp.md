@@ -3,7 +3,6 @@
 
 ## list
 
-
 ## Tuple 
 - immutable
 - Example: student = ("John", 25, "Python")
@@ -11,6 +10,7 @@
 ## set
 - unorderd
 - Example: numbers = {10, 20, 30, 20, 40}
+---
 # dictionary
 - keys and values
 - Example:
@@ -21,7 +21,7 @@
       "course": "Python"
   }
   ```
-  
+---
 # Operators _______
 
 ## 1. Arithmetic operators*
@@ -83,7 +83,7 @@
     >>	Right shift	5 >> 1
     ```
 
-
+---
 ## control statement
 - if
     ```python
@@ -117,7 +117,7 @@
     else:
         print("Fail")
     ```
-  
+---
 # Loop
 - Conditional loop
     ```python
@@ -185,7 +185,7 @@
     else:
         print("Not eligible")
     ```
-  
+---
 ## function
 > syntax of a function.
 ```python
@@ -206,7 +206,7 @@ c = a+b
 return c
 file = open("data.
 ```
-
+---
 ## File handling
 - file = open("data.txt", "r")
 - "r"	Read
@@ -221,7 +221,7 @@ file = open("data.
 - file.close()
 - import os
 - os.remove("data.txt")
-
+---
 ## trye and except
 ```python
 try:
@@ -234,4 +234,22 @@ except:
     print("Something went wrong")
 ```
 ## Modules and packages
+
+---
+# Practice
+
+* Palindrom number 
+* Factorial of number 
+* Count vowels and consonants from a string
+* Return the second most elements from the list
+* Retunr the most repeated elements from a list
+* Longest common substring
+* Calculator implementation
+* Bubble sort
+* Star pattern code
+* Retunr the largest and smallest element from list
+* Pls practice the above  coding questions
+* Pls explore these kind of questions for coding exam
+* Regarding the env based question just show the reviewer how do u created the enviroment ,how to activate the environment . Use of env
+* Pls ask him to mail me
 
