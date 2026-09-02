@@ -187,10 +187,52 @@
     ```
   
 ## function
-syntax of a function.
+> syntax of a function.
 ```python
 def add(a, b):
     print(a + b)
 
 add(10, 20)
 ```
+> Call the fungtion
+```python
+add (10)
+```
+
+
+```python
+def add (a,b):
+c = a+b
+return c
+file = open("data.
+```
+
+## File handling
+- file = open("data.txt", "r")
+- "r"	Read
+- "w"	Write
+- "a"	Append
+- "x"	Create new file
+- "r+"	Read + Write
+- "w+"	Write + Read
+- "a+"	Append + Read
+- file = open("data.txt", "w")
+- file.write("Hello Python")
+- file.close()
+- import os
+- os.remove("data.txt")
+
+## trye and except
+```python
+try:
+    a = 10
+    b = 0
+    result = a / b
+    print(result)
+
+except:
+    print("Something went wrong")
+```
+
+
+
