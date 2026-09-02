@@ -82,3 +82,32 @@ Output:
 
 ---
 
+## Logical Problem Solving
+
+**Logical problem solving** is the process of breaking a programming problem into smaller steps and using logic to reach the desired result.
+
+### Key Steps
+
+* **Understand the problem** — Identify what the problem is asking.
+* **Identify inputs and outputs** — Determine what data is needed and what result is expected.
+* **Break the problem into steps** — Divide the problem into smaller, manageable tasks.
+* **Apply conditions** — Use conditional statements to make decisions.
+* **Use loops** — Repeat operations when necessary.
+* **Test the logic** — Check the solution with different inputs and edge cases.
+
+### Example
+
+```python
+number = int(input("Enter a number: "))
+
+if number > 0:
+    print("Positive")
+elif number < 0:
+    print("Negative")
+else:
+    print("Zero")
+```
+
+Here, the problem is divided into three possible cases: positive, negative, and zero.
+
+[View more details →](./Python_Detaild/logical_problem_solving.md)
