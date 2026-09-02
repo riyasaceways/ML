@@ -1,19 +1,20 @@
-# ML
 
-My one-year Machine Learning learning journey.
+```text
+Semester-1
+├── PAPER_1 —> 3 Modules
+├── PAPER_2 —> 4 Modules
+├── PAPER_3 —> 6 Modules
+└── PAPER_4 —> 2 Modules
+      SEM-1 = 15 Modules
 
----
+Semester-2
+├── PAPER_5 —> 4 Modules
+├── PAPER_6 —> 4 Modules
+├── PAPER_7 —> 4 Modules
+└── PAPER_8 —> 2 Modules
+      SEM-2 = 14 Modules
 
-# SEMESTER - 1
-## ✅ PAPER-1 $$\textcolor{#00FF00}{\texttt{Started - On going}}$$
-## ⬛ PAPER-2 $$\textcolor{#808080}{\texttt{Not started yet}}$$
-## ⬛ PAPER-3 $$\textcolor{#808080}{\texttt{Not started yet}}$$
-## ⬛ PAPER-4 $$\textcolor{#808080}{\texttt{Not started yet}}$$
----
-# SEMESTER - 2
-## ⬛ PAPER-1 $$\textcolor{#808080}{\texttt{Not started yet}}$$
-## ⬛ PAPER-2 $$\textcolor{#808080}{\texttt{Not started yet}}$$
-## ⬛ PAPER-3 $$\textcolor{#808080}{\texttt{Not started yet}}$$
-## ⬛ PAPER-4 $$\textcolor{#808080}{\texttt{Not started yet}}$$
+Total = 29 Modules
+```
 
----
+<img src="./MODULES.jpeg" alt="Alternative text" width="100%"/>
