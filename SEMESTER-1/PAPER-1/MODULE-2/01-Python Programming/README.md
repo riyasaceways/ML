@@ -8,7 +8,7 @@
     c. Type conversion
     d. Expressions and operators
     e. Python coding conventions
-[Click to view Answers 👆](001-Understand%20Python%20Fundamentals/)
+[Click to view Answers 👆](Python_Theory_Practical/understand_python_fundamentals.md)
 
 ---
 ## 2. Understand Control Flow

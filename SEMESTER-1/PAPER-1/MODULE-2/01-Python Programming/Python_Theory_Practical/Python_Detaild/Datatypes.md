@@ -1,3 +1,6 @@
+[◀Back](./)
+---
+
 # Python Data Types
 
 Python has several built-in data types used to store different kinds of data.
@@ -242,3 +245,6 @@ bytearray
 memoryview
 NoneType
 ```
+
+[◀Back](./)
+---
