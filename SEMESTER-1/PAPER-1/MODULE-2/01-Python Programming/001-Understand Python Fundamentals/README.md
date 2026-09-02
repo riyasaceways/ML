@@ -6,8 +6,6 @@
 5. Python coding conventions
 ---
 
----
-
 ## 1. Variables and data types
 * **What is variable?**<br>
   A **variable** is a named label used to store and look up data in a computer program.
