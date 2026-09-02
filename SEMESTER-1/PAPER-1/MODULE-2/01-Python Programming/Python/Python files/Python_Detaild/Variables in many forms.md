@@ -13,7 +13,7 @@ print("Hello World")
 
 ---
 
-## 1. Basic Variable Assignment
+### 1. Basic Variable Assignment
 
 ```python
 name = "Riyas"
@@ -23,7 +23,7 @@ price = 99.99
 
 ---
 
-## 2. Multiple Variables (Different Values)
+### 2. Multiple Variables (Different Values)
 
 ```python
 name, age, city = "Riyas", 20, "Bengaluru"
@@ -31,7 +31,7 @@ name, age, city = "Riyas", 20, "Bengaluru"
 
 ---
 
-## 3. Multiple Variables (Same Value)
+### 3. Multiple Variables (Same Value)
 
 ```python
 x = y = z = 100
@@ -39,7 +39,7 @@ x = y = z = 100
 
 ---
 
-## 4. Integer Variable
+### 4. Integer Variable
 
 ```python
 age = 20
@@ -47,7 +47,7 @@ age = 20
 
 ---
 
-## 5. Float Variable
+### 5. Float Variable
 
 ```python
 price = 99.99
@@ -55,7 +55,7 @@ price = 99.99
 
 ---
 
-## 6. String Variable
+### 6. String Variable
 
 ```python
 name = "Riyas"
@@ -63,7 +63,7 @@ name = "Riyas"
 
 ---
 
-## 7. Boolean Variable
+### 7. Boolean Variable
 
 ```python
 is_student = True
@@ -72,7 +72,7 @@ is_logged_in = False
 
 ---
 
-## 8. None Variable
+### 8. None Variable
 
 ```python
 result = None
@@ -80,7 +80,7 @@ result = None
 
 ---
 
-## 9. Variable from an Expression
+### 9. Variable from an Expression
 
 ```python
 a = 10
@@ -91,7 +91,7 @@ total = a + b
 
 ---
 
-## 10. Variable from Another Variable
+### 10. Variable from Another Variable
 
 ```python
 age = 20
@@ -100,7 +100,7 @@ next_year_age = age + 1
 
 ---
 
-## 11. Variable from User Input
+### 11. Variable from User Input
 
 ```python
 name = input("Enter your name: ")
@@ -108,7 +108,7 @@ name = input("Enter your name: ")
 
 ---
 
-## 12. Variable with Type Conversion
+### 12. Variable with Type Conversion
 
 ```python
 age = int(input("Enter your age: "))
@@ -118,7 +118,7 @@ text = str(100)
 
 ---
 
-## 13. Variable with Type Annotation
+### 13. Variable with Type Annotation
 
 ```python
 name: str = "Riyas"
@@ -129,7 +129,7 @@ is_student: bool = True
 
 ---
 
-## 14. Type Annotation Only
+### 14. Type Annotation Only
 
 ```python
 name: str
@@ -138,7 +138,7 @@ age: int
 
 ---
 
-## 15. Constant (Naming Convention)
+### 15. Constant (Naming Convention)
 
 ```python
 PI = 3.14159
@@ -149,7 +149,7 @@ MAX_USERS = 100
 
 ---
 
-## 16. List Unpacking
+### 16. List Unpacking
 
 ```python
 numbers = [10, 20, 30]
@@ -159,7 +159,7 @@ a, b, c = numbers
 
 ---
 
-## 17. Extended Unpacking
+### 17. Extended Unpacking
 
 ```python
 numbers = [10, 20, 30, 40, 50]
@@ -177,7 +177,7 @@ last = 50
 
 ---
 
-## 18. Swap Variables
+### 18. Swap Variables
 
 ```python
 a = 10
@@ -188,7 +188,7 @@ a, b = b, a
 
 ---
 
-## 19. Augmented Assignment
+### 19. Augmented Assignment
 
 ```python
 x = 10
@@ -204,7 +204,7 @@ x **= 2
 
 ---
 
-## 20. Dynamic Typing
+### 20. Dynamic Typing
 
 A variable can change its type during execution.
 
@@ -217,9 +217,9 @@ value = True
 
 ---
 
-# Variable Naming Rules
+## Variable Naming Rules
 
-## Valid Names
+### Valid Names
 
 ```python
 student_name = "Riyas"
@@ -227,7 +227,7 @@ age2 = 20
 _private = "Yes"
 ```
 
-## Invalid Names
+### Invalid Names
 
 ```python
 2age = 20        # Starts with a number
@@ -237,7 +237,7 @@ class = "Python" # Reserved keyword
 
 ---
 
-# Naming Conventions (PEP 8)
+## Naming Conventions (PEP 8)
 
 | Type | Convention | Example |
 |------|------------|---------|
@@ -248,7 +248,7 @@ class = "Python" # Reserved keyword
 
 ---
 
-# Quick Reference Table
+## Quick Reference Table
 
 | Syntax | Example |
 |---------|---------|
@@ -270,7 +270,7 @@ class = "Python" # Reserved keyword
 
 ---
 
-# The Fundamental Syntax
+## The Fundamental Syntax
 
 ```python
 variable_name = value
