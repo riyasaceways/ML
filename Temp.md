@@ -176,3 +176,21 @@
     
         print(i)
     ```
+- pass
+    ```python
+    age = 25
+    
+    if age >= 18:
+        pass
+    else:
+        print("Not eligible")
+    ```
+  
+## function
+syntax of a function.
+```python
+def add(a, b):
+    print(a + b)
+
+add(10, 20)
+```
