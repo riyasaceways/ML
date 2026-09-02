@@ -1,7 +1,9 @@
 > [!CAUTION]
     <details>
     <summary>⚠View Disclaimer</summary>
-    Put your full, long disclaimer text here. It stays hidden until clicked!
+    $$\textcolor{#FF0000}{\texttt{Hi, I'm Riyas. I created these notes to help students understand and revise the topics more easily.}}$$
+    $$\textcolor{#FF0000}{\texttt{Please keep in mind that these notes may contain mistakes, inaccuracies, or incomplete information. Use them as a reference and study aid, and always verify important information with your textbooks, instructors, official documentation, or other reliable sources.}}$$
+    $$\textcolor{#FF0000}{\texttt{If you find an error or something that needs improvement, feel free to point it out or contribute a correction.}}$$
     </details>
 
 # Study pytho it is a main matter in this week
