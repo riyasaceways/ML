@@ -1,3 +1,9 @@
+> [!CAUTION]
+    <details>
+    <summary>⚠View Disclaimer</summary>
+    Put your full, long disclaimer text here. It stays hidden until clicked!
+    </details>
+
 # Study pytho it is a main matter in this week
 
 
