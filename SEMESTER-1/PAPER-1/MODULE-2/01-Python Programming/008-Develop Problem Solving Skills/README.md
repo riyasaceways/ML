@@ -75,7 +75,7 @@
       return cleaned == cleaned[::-1]
 
   print(is_palindrome("A man a plan a canal Panama"))  # Outputs: True
-  print(is_palindrome("Python"))                       # Outputs: False
+  print(is_palindrome("Python_Theory_Practical"))                       # Outputs: False
   ```
   
   </details>

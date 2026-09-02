@@ -120,7 +120,7 @@ import pandas
 import matplotlib
 import sklearn
 
-print("Python:", sys.version)
+print("Python_Theory_Practical:", sys.version)
 print("Executable:", sys.executable)
 print("ML environment is working!")
 ```

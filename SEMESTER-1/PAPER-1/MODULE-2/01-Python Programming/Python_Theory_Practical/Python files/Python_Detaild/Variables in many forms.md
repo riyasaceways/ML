@@ -211,7 +211,7 @@ A variable can change its type during execution.
 ```python
 value = 10
 value = 10.5
-value = "Python"
+value = "Python_Theory_Practical"
 value = True
 ```
 
@@ -232,7 +232,7 @@ _private = "Yes"
 ```python
 2age = 20        # Starts with a number
 student-name = "" # Hyphen is not allowed
-class = "Python" # Reserved keyword
+class = "Python_Theory_Practical" # Reserved keyword
 ```
 
 ---

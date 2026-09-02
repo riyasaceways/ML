@@ -26,7 +26,7 @@
     student = {
       "name": "John",
       "age": 25,
-      "course": "Python"
+      "course": "Python_Theory_Practical"
   }
   ```
 ---
