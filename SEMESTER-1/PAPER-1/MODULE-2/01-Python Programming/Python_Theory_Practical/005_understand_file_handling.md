@@ -117,3 +117,35 @@ print(data)
 ---
 
 
+## Processing Structured Data
+
+**Structured data** is information organized in a predictable format, such as rows and columns, key-value pairs, lists, or nested objects. Python provides data structures and tools that make it easy to read, access, modify, filter, and process this kind of data.
+
+```python
+students = [
+    {"name": "Riyas", "mark": 90},
+    {"name": "Arun", "mark": 85},
+    {"name": "Rahul", "mark": 92}
+]
+
+for student in students:
+    if student["mark"] >= 90:
+        print(student["name"])
+```
+
+### Key Concepts
+
+* **Structured data** — Data organized in a consistent and predictable format.
+* **Dictionaries** — Store data as key-value pairs.
+* **Lists** — Store multiple values or records.
+* **Nested data** — Data structures can contain other lists and dictionaries.
+* **Accessing data** — Retrieve specific values using keys and indexes.
+* **Iterating data** — Process multiple records using loops.
+* **Filtering** — Select records that satisfy a condition.
+* **Updating data** — Modify existing values.
+* **Sorting data** — Arrange records based on a specific value.
+* **JSON and CSV** — Common file formats for structured data.
+* **Data transformation** — Convert data from one structure or format into another.
+
+[View more details →](./Python_Detaild/processing_structured_data.md)
+
