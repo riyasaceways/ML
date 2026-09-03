@@ -1,5 +1,5 @@
-number = 5
-
-while number < 10:
-    print(number)
-    number += 1
+num = 0
+limit =10
+while num <= limit:
+ print(num)
+ num += 1

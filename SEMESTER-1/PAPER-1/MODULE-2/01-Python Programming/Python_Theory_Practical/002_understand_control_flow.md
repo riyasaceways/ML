@@ -21,7 +21,7 @@ else:
     print("You are not eligible to vote.")
 ```
 
-[View more details →](./Python_Detaild/conditional-statements.md)
+[View more details →](Python_Detaild/conditional_statements.md)
 
 ---
 
